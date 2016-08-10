@@ -2,5 +2,5 @@ require "rubygems"
 require "sinatra"
 
 get "/" do
-  "Hello world2!"
+  "Hello world3!"
 end
